@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Connor Hildebrandt
 
-<!--
-**connorh27/connorh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student | Virginia Tech, Class of 2027**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate computer science student actively pursuing opportunities in software engineering and technology. I'm constantly exploring new technologies, building projects, and enhancing my skills in coding and software design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 **Technical Skills**
+- **Languages**: Python, Java, JavaScript, HTML/CSS
+- **Technologies**: Git, PyCharm, VS Code, Eclipse, Excel/Word
+
+I enjoy working across different programming languages and tools to create impactful projects. My experience spans from web development to algorithmic trading, and I’m always eager to expand my skill set.
+
+Feel free to get in touch via [LinkedIn](https://linkedin.com/in/connorh27) or email me at connorhildebrandt27@gmail.com. I'm always open to connecting with like-minded individuals and discussing new opportunities!
